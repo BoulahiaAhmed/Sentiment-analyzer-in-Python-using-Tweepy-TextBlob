@@ -9,10 +9,10 @@ Created on Thu Apr  4 21:54:23 2019
 import tweepy
 import pandas as pd
 
-ckey= 'rHFGKNJkgJfXzZcZgoTLLtlBf'
-csecret= '4TysL3W2MUQivu6eB5UlBBIJRQwHSb1TLjU6S8jMFCqcGLQzGq'
-atoken='1084591454230581249-X97MNBRlhKSWZ3ptQrCuBQC6kKu8ah'
-asecret='2vRv2npgLcKyc7wx4IdUZ3lBEVhGuzXwKN2K7uP9eLzK5'
+ckey= ''
+csecret= ''
+atoken=''
+asecret=''
 
 auth = tweepy.OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
