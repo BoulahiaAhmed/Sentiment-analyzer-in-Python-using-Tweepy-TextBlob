@@ -10,13 +10,13 @@ from textblob import TextBlob
 import matplotlib.pyplot as plt
 
 #consumer Key
-ckey= 'rHFGKNJkgJfXzZcZgoTLLtlBf'
+ckey= ''
 #consumer Secret
-csecret= '4TysL3W2MUQivu6eB5UlBBIJRQwHSb1TLjU6S8jMFCqcGLQzGq'
+csecret= ''
 #access Token
-atoken='1084591454230581249-X97MNBRlhKSWZ3ptQrCuBQC6kKu8ah'
+atoken=''
 # access Token Secret
-asecret='2vRv2npgLcKyc7wx4IdUZ3lBEVhGuzXwKN2K7uP9eLzK5'
+asecret=''
 
 #PARTIE D'AUTENTIFICATION
 #on crée une instance de OAuthHandler dans laquelle on passe notre consumer Key et consumer Secret
